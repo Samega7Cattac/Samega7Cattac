@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![mood](https://i.pximg.net/img-master/img/2014/04/07/21/41/27/42763687_p0_master1200.jpg)
+ ![mood](https://raw.githubusercontent.com/Samega7Cattac/Samega7Cattac/master/42763687_p0_master1200.jpg)
+ 
+ (@hamze)
